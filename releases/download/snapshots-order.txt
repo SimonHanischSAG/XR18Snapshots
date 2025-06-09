@@ -13,6 +13,6 @@
 41 MOD Karsten
 40 Bad
 41 MOD Simon
-47 Barbershop-Tag
+47 Tag
 41 MOD
 59 MUTE
