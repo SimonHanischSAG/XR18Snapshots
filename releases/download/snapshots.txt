@@ -1,7 +1,7 @@
 59 MUTE
 41 MOD
 40 Bad
-47 Barbershop-Tag
+47 Tag
 42 Chasing Cars
 43 Der Weg
 44 Dobbins
