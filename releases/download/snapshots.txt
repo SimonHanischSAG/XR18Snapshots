@@ -16,7 +16,8 @@
 50 Look
 53 Raggamuffin
 54 Royals
-60 Time, Time, Time
+61 Time
+62 Time Octaver
 55 Take on me
 58 Wochendend
 56 You are my sunshine
