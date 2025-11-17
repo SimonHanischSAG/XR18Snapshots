@@ -1,19 +1,11 @@
 59 MUTE
-53 Raggamuffin
-41 MOD Karsten
-54 Royals
-41 MOD Marthe
+41 MOD
+61 Time
+62 Time Octaver
+59 MUTE
+41 MOD
 52 Impro
 60 Impro Octaver
-41 MOD Nena
-56 You are my sunshine
-41 MOD Simon
-47 Tag
-41 MOD Karsten
-46 Everything
-41 MOD Marthe
-55 Take on me
-41 MOD Zugabe
-40 Bad
+41 MOD
 48 Getanzt
 59 MUTE
