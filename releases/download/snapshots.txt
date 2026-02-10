@@ -12,10 +12,12 @@
 48,Getanzt,f2as3es4g4,110
 49,Grundgesetz,d3_g2,111
 51,Ich seh Dich,d4_a3,80
+-1,Imagine,g2h3d4,72
 52,Impro
 60,Impro Octaver
 -1,I will dream of you (Tag),c4_a3g3
 57,Keine Lust mehr
+-1,Let it go,e3h3_fis4g4h3fis4g4,142
 50,Look,a2e3,95
 53,Raggamuffin,d2f3,80
 54,Royals,a3_e3e3a3,82
