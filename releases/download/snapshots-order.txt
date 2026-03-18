@@ -1,22 +1,14 @@
 59,MUTE
 25,Schattenspiel
-29,Einfuehrung
-29,Zocken
-27,Jugend
-28,Sketch Joshi
-59,MUTE
-26,Koalas
-28,Sketch Todeswanderung
-59,MUTE
-59,Fotos
+29,Julia Hall
+30,Markus Weniger Hall
+27,Rap
+59,MUTE Joshi
+30,Wanderung Weniger Hall
+59,MUTE Fotos Koalas
 27,Battle Rap
-28,Sketch Findet die Liebe
-59,MUTE
-29,Arbeit Musik Marthes Liebe
-59,Finale
-59,MUTE
-
-59,MUTE
+30,Sketch Marthe Finale Weniger Hall
+59,MUTE Pause
 41,MOD
 50,Look,a2e3,95
 41,MOD
