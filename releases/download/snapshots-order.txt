@@ -12,9 +12,10 @@
 27,Battle Rap
 28,Sketch: Findet die Liebe
 59,MUTE
-29,Arbeit,Musik, Marthes Liebe
+29,Arbeit Musik Marthes Liebe
 59,Finale
 59,MUTE
+
 59,MUTE
 41,MOD
 50,Look,a2e3,95
