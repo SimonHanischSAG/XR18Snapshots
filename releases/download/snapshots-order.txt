@@ -3,14 +3,14 @@
 29,Einführung
 29,Zocken
 27,Jugend
-28,Sketch: Joshi
+28,Sketch Joshi
 59,MUTE
 26,Koalas
-28,Sketch: Todeswanderung
+28,Sketch Todeswanderung
 59,MUTE
 59,Fotos
 27,Battle Rap
-28,Sketch: Findet die Liebe
+28,Sketch Findet die Liebe
 59,MUTE
 29,Arbeit Musik Marthes Liebe
 59,Finale
