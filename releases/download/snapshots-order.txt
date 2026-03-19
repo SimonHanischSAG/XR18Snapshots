@@ -16,5 +16,5 @@
 41,MOD
 48,Getanzt,f2as3es4g4,110
 41,MOD
-63,The Seed,c2,100
+63,The Seed,c3,64
 59,MUTE
