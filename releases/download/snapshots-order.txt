@@ -1,7 +1,7 @@
 59,MUTE
 19,Allgemein
 59,MUTE
-20,Irish Blessing+Claudia,g2h2d3
+20,Irish Blessing+Claudia,g2h2d3h2g2
 21,From a Distance
 19,Allgemein
 59,MUTE
