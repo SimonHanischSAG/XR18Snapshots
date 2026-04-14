@@ -7,7 +7,7 @@
 44,Dobbins,des3_f3ges3as3
 45,Dont worry,c3e4g4
 46,Everything,c3_e3d3d3c3,123
-64,Fairytale,g2_d3c3b2,138
+64,Fairytale,g2_d3c3b2g2,138
 38,Fix You,e3h3,68
 48,Getanzt,f2as3es4g4,110
 49,Grundgesetz,d3_g2,111
