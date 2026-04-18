@@ -1,6 +1,6 @@
 59,MUTE
 41,MOD
-37,BB-Solo,c2
+37,BB-Solo,c2,86
 59,MUTE
 41,MOD
 64,Fairytale,g2_d3c3b2g2,138
