@@ -2,7 +2,6 @@
 41,MOD
 5,Standard
 41,MOD
-59,MUTE
 59,MUTE,c2,90
 48,Getanzt,c3,110
 49,Grundgesetz
