@@ -1,15 +1,9 @@
 59,MUTE
 41,MOD
-37,BB-Solo,cis2,86
+5,Standard
+41,MOD
 59,MUTE
-41,MOD
-64,Fairytale,g2_d3c3b2g2,138
-41,MOD
-42,Chasing Cars,d4a4,103
-41,MOD
+59,MUTE,c2,90
+48,Getanzt,c3,110
+49,Grundgesetz
 50,Look,a2e3,95
-41,MOD
-52,Impro
-60,Impro Octaver
-41,MOD
-59,MUTE
