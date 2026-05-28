@@ -1,5 +1,3 @@
-59,MUTE
-41,MOD
 5,Standard
 41,MOD
 59,MUTE,c2,90
