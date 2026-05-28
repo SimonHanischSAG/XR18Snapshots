@@ -1,6 +1,4 @@
-5,Standard
 41,MOD
-59,MUTE,c2,90
-48,Getanzt,c3,110
+59,MUTE
 49,Grundgesetz
-50,Look,a2e3,95
+50,Look
