@@ -12,7 +12,7 @@
 38,Fix You,e3h3,68
 48,Getanzt,f2as3es4g4,110
 49,Grundgesetz,d3_g2,111
-51,Ich seh Dich,d4_a3,80
+51,Ich seh Dich,d4_a4,80
 -1,Imagine,g3h3d4,72
 52,Impro
 60,Impro Octaver
