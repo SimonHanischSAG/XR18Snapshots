@@ -23,7 +23,7 @@
 53,Raggamuffin,f2,80
 54,Royals,a3_e3e3a3,82
 47,Smile (Tag),c4
-63,The Seed,c3,64
+63,The Seed,h2,64
 61,Time Time Time
 62,Time Octaver
 62,Take five,c3es3g3,160
