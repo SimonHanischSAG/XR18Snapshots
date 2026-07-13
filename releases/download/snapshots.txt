@@ -6,7 +6,7 @@
 42,Chasing Cars,d4a4,103
 43,Der Weg,e3,68
 44,Dobbins,des3_f3ges3as3
-45,Dont worry,c3e4g4
+45,Dont worry,c3e4g4,126
 46,Everything,c3_e3d3d3c3,123
 64,Fairytale,g2_d3c3b2g2,138
 38,Fix You,e3h3,68
@@ -18,7 +18,7 @@
 60,Impro Octaver
 47,I will dream of you (Tag),c4_a3g3
 57,Keine Lust mehr
-36,Let it go,e3h3e4_fis4g4h3fis4g4,125
+36,Let it go,e3h3e4,125
 50,Look,a2e3,95
 53,Raggamuffin,f2,80
 54,Royals,a3_e3e3a3,82
