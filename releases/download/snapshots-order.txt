@@ -14,4 +14,6 @@
 37,BB-Solo
 52,Impro
 60,Impro Octaver
+54,Royals
+55,Take on me
 59,MUTE
