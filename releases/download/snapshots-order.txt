@@ -8,12 +8,10 @@
 41,MOD
 47,I will dream of you (Tag)
 41,MOD
+36,Let it go
+41,MOD
 50,Look
 41,MOD
-49,Grundgesetz
-37,BB-Solo
-52,Impro
-60,Impro Octaver
-54,Royals
-55,Take on me
+59,MUTE
+19,Chor
 59,MUTE
