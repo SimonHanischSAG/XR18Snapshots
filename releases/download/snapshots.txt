@@ -18,7 +18,7 @@
 60,Impro Octaver
 47,I will dream of you (Tag),c4_a3
 57,Keine Lust mehr
-36,Let it go,e3h3,125
+36,Let it go,e3h3,135
 50,Look,a2e3,95
 53,Raggamuffin,f2,80
 54,Royals,a3_e3e3a3,82
