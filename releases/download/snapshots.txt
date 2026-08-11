@@ -16,7 +16,7 @@
 -1,Imagine,g3h3d4,72
 52,Impro
 60,Impro Octaver
-47,I will dream of you (Tag),c4_a3g3
+47,I will dream of you (Tag),c4_a3
 57,Keine Lust mehr
 36,Let it go,e3h3,125
 50,Look,a2e3,95
