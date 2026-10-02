@@ -28,5 +28,5 @@
 62,Time Octaver
 62,Take five,c3es3g3,160
 55,Take on me,b3des4f3,157
-58,Wochenend,c3e3c4
+58,Wochenend,gis2c3gis3
 56,You are my sunshine,as2_es2as2b2c3
