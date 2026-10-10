@@ -1,3 +1,6 @@
+1,Input AD
+115,Standard
+11,EQ Sub
 59,MUTE
 41,MOD
 40,Bad,a2c3d3,94
